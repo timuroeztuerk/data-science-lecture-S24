@@ -58,16 +58,6 @@ It is the great multiplication of the productions of all the different arts, in 
 
 Observe the accommodation of the most common artificer or day-labourer in a civilised and thriving country, and you will perceive that the number of people of whose industry a part, though but a small part, has been employed in procuring him this accommodation, exceeds all computation. The woollen coat, for example, which covers the day-labourer, as coarse and rough as it may appear, is the produce of the joint labour of a great multitude of workmen. The shepherd, the sorter of the wool, the wool-comber or carder, the dyer, the scribbler, the spinner, the weaver, the fuller, the dresser, with many others, must all join their different arts in order to complete even this homely production. How many merchants and carriers, besides, must have been employed in transporting the materials from some of those workmen to others who often live in a very distant part of the country! How much commerce and navigation in particular, how many shipbuilders, sailors, sailmakers, ropemakers, must have been employed in order to bring together the different drugs made use of by the dyer, which often come from the remotest corners of the world! What a variety of labour, too, is necessary in order to produce the tools of the meanest of those workmen! To say nothing of such complicated machines as the ship of the sailor, the mill of the fuller, or even the loom of the weaver, let us consider only what a variety of labour is requisite in order to form that very simple machine, the shears with which the shepherd clips the wool. The miner, the builder of the furnace for smelting the ore, the seller of the timber, the burner of the charcoal to be made use of in the smelting-house, the brickmaker, the bricklayer, the workmen who attend the furnace, the millwright, the forger, the smith, must all of them join their different arts in order to produce them. Were we to examine, in the same manner, all the different parts of his dress and household furniture, the coarse linen shirt which he wears next his skin, the shoes which cover his feet, the bed which he lies on, and all the different parts which compose it, the kitchen-grate at which he prepares his victuals, the coals which he makes use of for that purpose, dug from the bowels of the earth, and brought to him perhaps by a long sea and a long land carriage, all the other utensils of his kitchen, all the furniture of his table, the knives and forks, the earthen or pewter plates upon which he serves up and divides his victualsthe different hands employed in preparing his bread and his beer, the glass window which lets in the heat and the light, and keeps out the wind and the rain, with all the knowledge and art requisite for preparing that beautiful and happy invention, without which these northern parts of the world could scarce have afforded a very comfortable habitation, together with the tools of all the different workmen employed in producing those different conveniences; if we examine, I say, all these things, and consider what a variety of labour is employed about each of them, we shall be sensible that, without the assistance and co-operation of many thousands, the very meanest person in a civilised country could not be provided, even according to what we very falsely imagine the easy and simple manner in which he is commonly accommodated. Compared, indeed, with the more extravagant luxury of the great, his accommodation must no doubt appear extremely simple and easy; and yet it may be true, perhaps, that the accommodation of a European prince does not always so much exceed that of an industrious and frugal peasant as the accommodation of the latter exceeds that of many an African king, the absolute master of the lives and liberties of ten thousand naked savages.
 
-
-
-
-
-↑ The "great industry" has produced results in pinmaking which reduce Adam Smith's illustration to insignificance. At the present time not more than 1,000 persons are employed in all the processes of pinmaking. These suffice to turn out, on an average, twenty-five tons of pins per week. In Adam Smith's time not less than 4,200 were required for the production of about one-seventh of that quantity.—Ed
-
-
-
-
-
 CHAPTER II
 
 Of the Principle which gives occasion to the Division of Labor
@@ -169,15 +159,6 @@ And, lastly, what are the different circumstances which sometimes raise some or 
 I shall endeavor to explain, as fully and distinctly as I can, those three subjects in the three following chapters, for which I must very earnestly entreat both the patience and attention of the reader; his patience in order to examine a detail which may perhaps in some places appear unnecessarily tedious; and his attention in order to understand what may, perhaps, after the fullest explication which I am capable of giving it, appear still in some degree obscure. I am always willing to run some hazard of being tedious in order to be sure that I am perspicuous; and after taking the utmost pains that I can to be perspicuous, some obscurity may still appear to remain upon a subject in its own nature extremely abstracted.
 
 
-
-
-
-↑ Plin. Hist. Nat., lib. 33, cap. 3.
-
-
-
-
-
 CHAPTER V[1]
 
 of the real and nominal price of commodities, or of their price in labor, and their price in money
@@ -275,17 +256,6 @@ The occasional fluctuations in the market price of gold and silver bullion arise
 The money of any particular country is, at any particular time and place, more or less an accurate measure of value according as the current coin is more or less exactly agreeable to its standard, or contains more or less exactly the precise quantity of pure gold or pure silver which it ought to contain. If in England, for example, forty-four guineas and a half contained exactly a pound weight of standard gold, or eleven ounces of fine gold and one ounce of alloy, the gold coin of England would be as accurate a measure of the actual value of goods at any particular time and place as the nature of the thing would admit. But if, by rubbing and wearing, forty-four guineas and a half generally contain less than a pound weight of standard gold, the diminution, however, being greater in some pieces than in others, the measure of value comes to be liable to the same sort of uncertainty to which all other weights and measures are commonly exposed. As it rarely happens that these are exactly agreeable to their standard, the merchant adjusts the price of his goods, as well as he can, not to what those weights and measures ought to be, but to what, upon an average, he finds by experience they actually are. In consequence of a like disorder in the coin, the price of goods comes, in the same manner, to be adjusted, not to the quantity of pure gold or silver which the coin ought to contain, but to that which, upon an average, it is found by experience it actually does contain.
 
 By the money price of goods, it is to be observed, I understand always the quantity of pure gold or silver for which they are sold, without any regard to the denomination of the coin. Six shillings and eightpence, for example, in the time of Edward I., I consider as the same money price with a pound sterling in the present times; because it contained, as nearly as we can judge, the same quantity of pure silver.
-
-
-
-
-
-↑ This chapter contains the enunciation of the principle on which Karl Marx bases his economical doctrine.—Ed.
-
-↑ Pliny, lib. xxxiii., c. 3.
-
-
-
 
 
 CHAPTER V I
@@ -562,24 +532,6 @@ The increase in the wages of labor necessarily increases the price of many commo
 
 * * *
 
-
-
-
-
-↑ This was written in 1773, before the commencement of the late disturbances. [The disturbances referred to are those of the American war of independence,—Ed.]
-
-↑ See his scheme for the maintenance of the Poor, in Burn's History of the Poor-laws.
-
-↑ A noteworthy admission on the part of an eighteenth century economist.—Ed.
-
-↑ The orthodox eighteenth century view was the direct antithesis of that of modern Malthusianism, as the reader will see from this and other passages.—Ed.
-
-↑ "It is only the form in which surplus value is extracted from its immediate producer, the workman, that distinguishes the economical formations of society, e.g., the society founded on slavery from that based on wage-labor."—"Das Kapital," vol. i., p. 207.
-
-
-
-
-
 CHAPTER IX
 
 of the profits of stock
@@ -639,18 +591,6 @@ In reality high profits tend much more to raise the price of work than high wage
 
 
 * * *
-
-
-
-
-
-↑ See Denisart, Article Taux des Interets, tom. iii. p. 18.
-
-↑ The foregoing chapter has special historical interest and importance as a general exposition of the conditions of the capitalistic system before the rise of the grande industrie. The subject is worked out in detail in the following and subsequent chapters—Ed.
-
-
-
-
 
 CHAPTER X
 
@@ -917,24 +857,6 @@ The proportion between the different rates both of wages and profit in the diffe
 
 
 * * *
-
-
-
-
-
-↑ See Idyllium xxi.
-
-↑ We need scarcely remind the reader that this chapter treats almost wholly of a state of things no longer existing.—Ed.
-
-↑ See Madox Firma Burgl. p. 26, etc.
-
-↑ See the Statute of Laborers, 25 Ed. III.
-
-↑ This is incorrect. Karneades was a native of the Greek city of Kyrene.—Ed.
-
-
-
-
 
 CHAPTER XI
 
@@ -1567,9 +1489,6 @@ The interest of the first of those three great orders, it appears from what has 
 The interest of the second order, that of those who live by wages, is as strictly connected with the interest of the society as that of the first. The wages of the laborer, it has already been shown, are never so high as when the demand for labor is continually rising, or when the quantity employed is every year increasing considerably. When this real wealth of the society becomes stationary, his wages are soon reduced to what is barely enough to enable him to bring up a family, or to continue the race of laborers. When the society declines, they fall even below this. The order of proprietors may, perhaps, gain more by the prosperity of the society than that of laborers: but there is no order that suffers so cruelly from its decline. But though the interest of the laborer is strictly connected with that of the society, he is incapable either of comprehending that interest, or of understanding its connection with his own. His condition leaves him no time to receive the necessary information, and his education and habits are commonly such as to render him unfit to judge even though he was fully informed. In the public deliberations, therefore, his voice is little heard and less regarded, except upon some particular occasions, when his clamor is animated, set on, and supported by his employers, not for his, but their own particular purposes.
 
 His employers constitute the third order, that of those who live by profit. It is the stock that is employed for the sake of profit, which puts into motion the greater part of the useful labor of every society. The plans and projects of the employers of stock regulate and direct all the most important operations of labor, and profit is the end proposed by all those plans and projects. But the rate of profit does not, like rent and wages, rise with the prosperity, and fall with the declension, of the society. On the contrary, it is naturally low in rich, and high in poor countries, and it is always highest in the countries which are going fastest to ruin. The interest of this third order, therefore, has not the same connection with the general interest of the society as that of the other two. Merchants and master manufacturers are, in this order, the two classes of people who commonly employ the largest capitals, and who by their wealth draw to themselves the greatest share of the public consideration. As during their whole lives they are engaged in plans and projects, they have frequently more acuteness of understanding than the greater part of country gentlemen. As their thoughts, however, are commonly exercised rather about the interest of their own particular branch of business, than about that of the society, their judgment, even when given with the greatest candor (which it has not been upon every occasion), is much more to be depended upon with regard to the former of those two objects, than with regard to the latter. Their superiority over the country gentleman is, not so much in their knowledge of the public interest, as in their having a better knowledge of their own interest than he has of his. It is by this superior knowledge of their own interest that they have frequently imposed upon his generosity, and persuaded him to give up both his own interest and that of the public, from a very simple but honest conviction, that their interest, and not his, was the interest of the public. The interest of the dealers, however, in any particular branch of trade or manufactures, is always in some respects different from, and even opposite to, that of the public. To widen the market and to narrow the competition is always the interest of the dealers. To widen the market may frequently be agreeable enough to the interest of the public; but to narrow the competition must always be against it, and can serve only to enable the dealers, by raising their profits above what they naturally would be, to levy, for their own benefit, an absurd tax upon the rest of their fellow citizens. The proposal of any new law or regulation of commerce which comes from this order, ought always to be listened to with great precaution, and ought never to be adopted till after having been long and carefully examined, not only with the most scrupulous, but with the most suspicious attention. It comes from an order of men whose interest is never exactly the same with that of the public, who have generally an interest to deceive and even to oppress the public, and who accordingly have, upon many occasions, both deceived and oppressed it.[14]
-
-
-
 
 
 Years XII. Price of the Quarter of Wheat each Year Average of the different Prices of the same Year The average Price of each Year in Money of the present Times
@@ -2319,39 +2238,6 @@ IN THAT rude state of society in which there is no division of labor, in which e
 But when the division of labor has once been thoroughly introduced, the produce of a man's own labor can supply but a very small part of his occasional wants. The far greater part of them are supplied by the produce of other men's labor, which he purchases with the produce, or, what is the same thing, with the price of the produce of his own. But this purchase cannot be made till such time as the produce of his own labor has not only been completed, but sold. A stock of goods of different kinds, therefore, must be stored up somewhere sufficient to maintain him, and to supply him with the materials and tools of his work, till such time, at least, as both these events can be brought about. A weaver
 
 
-
-↑ Voyages d'un Philosophe.
-
-↑ Douglas's Summary, vol. ii., pp. 372, 373.
-
-↑ The above would seem to be contrary to the experience of the present day.—Ed.
-
-↑ See his preface to Anderson's Diplomata Scotiæ.
-
-↑ Lowndes' Essay on the Silver Coin, p. 68.
-
-↑ See Tracts on the Corn Trade; Tract 3d.
-
-↑ Solorzano, vol. ii.
-
-↑ Postscript to the Universal Merchant, pp. 15 and 16. This Postscript was not printed till 175Q, three years after the publication of the book, which has never had a second edition. The Postscript is, therefore, to be found in few copies; it corrects several errors in the book.
-
-↑ See Ruddiman's Preface to Anderson's Diplomata, etc., Scotiæ.
-
-↑ Lib. X. c. 29.
-
-↑ Lib. ix. c. 17.
-
-↑ Kalm's Travels, vol. i., pp. 343, 344.
-
-↑ See Smith's "Memoirs of Wool," vol. i. c. 5, 6 and 7; also vol. ii. c. 176.
-
-↑ Autres temps, autres mœurs. It is quite evident Adam Smith knows not the "great middle-class" and its Manchester school, as the power before which all things bow, hence the straightforward naïveté of his utterances,—Ed.
-
-
-
-
-
 BOOK II
 
 Of the Nature, Accumulation, and Employment of Stock
@@ -2375,14 +2261,6 @@ In the following book I have endeavored to explain the nature of stock, the effe
 
 
 * * *
-
-
-
-
-
-↑ Adam Smith was unaware of the fact which modern research has brought to light that in early society it was the community in its corporate capacity which held the land and accumulated stock, and not any one individual.—Ed.
-
-
 
 
 
@@ -2459,15 +2337,6 @@ In those unfortunate countries, indeed, where men are continually afraid of the 
 
 
 * * *
-
-
-
-
-
-↑ Not having the fear of ulterior consequences before his mind, and hence not feeling it incumbent upon him to guard against Socialistic deductions by carefully framing a definition which should define nothing, Adam Smith states the meaning of capital in the above lucid terms. To him the capitalist as such implies the laborer as such, and the advanced civilization this separation of classes involves—as will appear from what follows. What would the old Scotch economist have thought of the nonsense to which modern orthodox economists are driven in their efforts to evade the consequences of a plain definition—to their talk about Robinson's wheelbarrow constituting him a capitalist, and the like?—Ed.
-
-
-
 
 
 CHAPTER II
