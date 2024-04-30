@@ -20,6 +20,33 @@ Here are some other resources that will be helpful to you:
 
 [Pandas Compared to R](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html) \& [Pandas Compared to Stata](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_stata.html): Most of you have already worked with R or Stata, so here are two links to make your life easier.
 
+### Week 2
+
+Welcome to Week 2! After learning the basics of Python and Pandas, we will start with the basic concepts of using text as data. This week, we will look at how the computer sees the text and how we can manipulate that using regular expressions.
+
+Regular expressions will be the most fundamental tool in your toolkit, and lucky for you, there have been a lot of advancements in the field, now you can use it almost without memorizing syntax. Then, we will examine how words are tokenized, the essential transformation we do during natural language processing.
+
+Lastly, I will give you an assignment, which is a task I did a couple of weeks ago for my own research. Hopefully, you will see how regular expressions and programming will be helpful to you.
+
+Some resources that I've used for the lecture, and you should check out:
+
+https://www.datacamp.com/cheat-sheet/regular-expresso
+
+https://realpython.com/regex-python/
+
+https://www.programiz.com/python-programming/regex
+
+https://www.geeksforgeeks.org/regular-expression-python-examples/
+
+https://developers.google.com/edu/python/regular-expressions
+
+https://docs.python.org/3/library/re.html
+
+https://projects.lukehaas.me/regexhub/
+
+https://www.debuggex.com/cheatsheet/regex/python
+
+
 ### Final Project
 Your final project will be 75 \% of your grade overall, 15 \% being the presentations you will hold during the last two weeks, and 60 \% the final submission. Here is some additional information that might be useful for you.
 
