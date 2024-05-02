@@ -30,21 +30,23 @@ Lastly, I will give you an assignment, which is a task I did a couple of weeks a
 
 Some resources that I've used for the lecture, and you should check out:
 
-https://www.datacamp.com/cheat-sheet/regular-expresso
+[DataCamp Cheat Sheet](https://www.datacamp.com/cheat-sheet/regular-expresso)
+[RealPython Regex](https://realpython.com/regex-python/)
+[Programiz](https://www.programiz.com/python-programming/regex)
+[Geeksforgeeks](https://www.geeksforgeeks.org/regular-expression-python-examples/)
+[Google](https://developers.google.com/edu/python/regular-expressions)
+[Python Docs](https://docs.python.org/3/library/re.html)
+[lukehaas.me](https://projects.lukehaas.me/regexhub/)
+[Debuggex](https://www.debuggex.com/cheatsheet/regex/python)
 
-https://realpython.com/regex-python/
+### Week 3
 
-https://www.programiz.com/python-programming/regex
+Welcome to Week 3! We will pick up where we left off last week and go further into regular expressions, use cases, and tokenization, and finally have some real NLP experience with the infamous book of Adam Smith, The Wealth of Nations. Some concepts will be abstract for you, but you can think of weeks three and four as a unit. Next week, instead of learning new concepts, we will apply our knowledge so far in real-world applications.
 
-https://www.geeksforgeeks.org/regular-expression-python-examples/
+Useful resources for this week:
 
-https://developers.google.com/edu/python/regular-expressions
-
-https://docs.python.org/3/library/re.html
-
-https://projects.lukehaas.me/regexhub/
-
-https://www.debuggex.com/cheatsheet/regex/python
+[Neptune.ai](https://neptune.ai/blog/tokenization-in-nlp)
+[SpaCy Documentation](https://spacy.io/usage/spacy-101): Have a look at the course "Advanced NLP with SpaCy".
 
 
 ### Final Project
